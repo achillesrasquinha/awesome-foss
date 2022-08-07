@@ -12,6 +12,7 @@
 - [UML tools](#uml-tools)
 - [Vector Graphics Editors](#vector-graphics-editors) e.g. Adobe Illustrator
 - [Communication](#communication) e.g. Slack
+- [Customer Relationship Management](#customer-relationship-management) e.g. SAP, Salesforce
 
 #### 3D Computer Graphics
 - [Blender](https://www.blender.org/)
@@ -47,3 +48,8 @@
 - [Zulip](https://zulip.com/)
 - [Mattermost](https://mattermost.com/)
 - [Element](https://element.io/)
+
+#### Customer Relationship Management (CRMs)
+- [Odoo](https://www.odoo.com/)
+- [ERPNext](https://erpnext.com/)
+- [Dolibarr](https://www.dolibarr.org/)
