@@ -11,6 +11,7 @@
 - [Raster Graphics Editors](#raster-graphics-editors) e.g. Adobe Photoshop
 - [UML tools](#uml-tools)
 - [Vector Graphics Editors](#vector-graphics-editors) e.g. Adobe Illustrator
+- [Communication](#communication) e.g. Slack
 
 #### 3D Computer Graphics
 - [Blender](https://www.blender.org/)
@@ -40,3 +41,6 @@
 
 #### Vector Graphics Editors
 - [Inkscape](https://inkscape.org/en/)
+
+#### Communication
+- [Rocket.Chat](https://rocket.chat/)
