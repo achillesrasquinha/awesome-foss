@@ -44,3 +44,4 @@
 
 #### Communication
 - [Rocket.Chat](https://rocket.chat/)
+- [Zulip](https://zulip.com/)
