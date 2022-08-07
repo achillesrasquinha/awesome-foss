@@ -45,3 +45,5 @@
 #### Communication
 - [Rocket.Chat](https://rocket.chat/)
 - [Zulip](https://zulip.com/)
+- [Mattermost](https://mattermost.com/)
+- [Element](https://element.io/)
