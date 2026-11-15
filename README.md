@@ -53,3 +53,4 @@
 - [Odoo](https://www.odoo.com/)
 - [ERPNext](https://erpnext.com/)
 - [Dolibarr](https://www.dolibarr.org/)
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
